@@ -1,2 +1,2 @@
-git_test
+git_test: Where I learn the basics of git.
 ========
